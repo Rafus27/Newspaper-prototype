@@ -1,0 +1,95 @@
+.headings {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: flex-end;
+}
+
+.title {
+    width: 100%;
+    max-width: 620px;
+    height: 100%;
+    max-height: 650px;
+    min-height: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.titleText {
+    margin: 0;
+    font-weight: 400;
+    font-size: 50px;
+    color: #1E689D;
+}
+
+.titleSubtitle {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.titleImg {
+    width: 100%;
+}
+
+.rubric {
+    background-color: #fff;
+}
+
+.rubricTitle {
+    margin: 0;
+    font-weight: 400;
+    font-size: 30px;
+    color: inherit;
+}
+
+.rubricLine {
+    height: 2px;
+    width: 100px;
+    background-color: #000;
+    transition: all 0.2s;
+}
+
+.rubricContainer {
+    max-width: 300px;
+    max-height: 350px;
+    margin-top: 0px;
+    color: #000;
+    transition: all 0.2s;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.rubricContainer:hover {
+    color: #1E689D;
+}
+
+.rubricContainer:hover .rubricLine {
+    background-color: #1E689D;
+}
+
+.rubricContainer:hover .rubricImg {
+    filter: opacity(100%);
+}
+
+.rubricImg {
+    width: 100%;
+    filter: opacity(90%);
+    transition: all 0.2s;
+}
+
+.headingsRubricContainer {
+    margin-left: 30px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.rubricGrid {
+    display: grid; 
+    row-gap: 30px;
+}

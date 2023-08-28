@@ -1,0 +1,33 @@
+.header {
+    width: 100%;
+    max-width: 1200px;
+    min-width: 580px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo {
+    font-size: 70px;
+}
+
+.tagline {
+    min-width: 283px;
+    margin:0 0 0 60px;
+    font-size: 26px;
+}
+
+.line {
+    width: 100%;
+    min-width: 580px;
+    height: 4px;
+    background-color: #000;
+}
