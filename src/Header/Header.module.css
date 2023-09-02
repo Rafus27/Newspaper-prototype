@@ -1,7 +1,7 @@
 .header {
     width: 100%;
     max-width: 1200px;
-    min-width: 580px;
+    min-width: 324px;
     margin: 0 auto;
     padding: 20px;
     box-sizing: border-box;
@@ -17,6 +17,12 @@
 
 .logo {
     font-size: 70px;
+    color: #000;
+    transition: all 0.2s;
+}
+
+.logo:hover {
+    color: #1E689D;
 }
 
 .tagline {
@@ -27,7 +33,17 @@
 
 .line {
     width: 100%;
-    min-width: 580px;
     height: 4px;
     background-color: #000;
+}
+
+@media screen and (max-width: 620px) {
+    .container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .tagline {
+        margin: 0 0 10px;
+    }
 }

@@ -1,0 +1,178 @@
+.slider {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    min-width: 60px;
+    min-height: 100%;
+    position: relative;
+    background-color: #fff;
+    border: none;
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+
+.btn svg {
+    transform: scale(4);
+    stroke: #000;
+    transition: all 0.2s;
+}
+
+.btn:hover {
+    background-color: #eeeeee;
+}
+
+.btn:hover svg {
+    stroke: #1E689D;
+}
+
+.sliderWindow {
+    position: relative;
+    width: 1020px;
+    margin: 0 20px;
+    overflow: hidden;
+}
+
+.wrapper {
+    display: flex;
+    transition: all 0.5s;
+}
+
+.slide {
+    max-width: 320px;
+    min-width: 320px;
+    margin-right: 20px;
+    background-color: #fff;
+    overflow: hidden;
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+
+.slide:hover {
+    background-color: #eeeeee;
+}
+
+.slide:hover .slideTitle {
+    color: #1E689D;
+}
+
+.slideContainer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.slideImgContainer {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 4px;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: cover;
+}
+
+.slideImg {
+    /* width: 100%; */
+}
+
+.slideDate {
+    margin: 10px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #888;
+    
+}
+
+.slideTitle {
+    margin: 0 10px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #000;
+    transition: all 0.2s;
+}
+
+.slideSubtitle {
+    height: 74px;
+    margin: 10px;
+    font-family: sans-serif;
+    color: #888;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+
+.headTitle {
+    margin: 0 0 20px 0;
+    font-weight: 400;
+    font-size: 40px;
+    color: #1E689D;
+}
+
+.infoSlider {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.separator {
+    width: 100%;
+    height: 20px;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .sliderWindow {
+        width: 660px;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .sliderWindow {
+        width: 320px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .slider {
+        min-width: 100%;
+        max-width: 100%;
+        position: relative;
+    }
+
+
+    .sliderWindow {
+        /* width: calc(100vw - 160px); */
+        margin: 0;
+        min-width: 320px;
+        max-width: 320px;
+    }
+
+    .slide {
+        min-width: 320px;
+        max-width: 320px;
+        /* max-width: calc(100vw - 160px);
+        min-width: calc(100vw - 160px); */
+    }
+
+    .btn {
+        min-width: 60px;
+        display: none;
+    }
+
+    .slideImg {
+        /* width: auto;
+        height: 100%; */
+    }
+
+
+}

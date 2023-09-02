@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Заголовок новости 0",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Заголовок новости 1",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Заголовок новости 2",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Заголовок новости 3",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Заголовок новости 4",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Заголовок новости 5",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Заголовок новости 6",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Заголовок новости 7",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Заголовок новости 8",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Заголовок новости 9",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Заголовок новости 10",
+        "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut ducimus explicabo sapiente maiores tempore corrupti et, tempora a esse rerum in provident fugiat corporis aut, nam quasi quibusdam autem temporibus.",
+        "date": "22.09.22",
+        "img": "src/assets/img/placeholder-reich.jpg",
+        "link": "#"
+    }
+]

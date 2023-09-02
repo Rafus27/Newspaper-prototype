@@ -1,0 +1,104 @@
+.footer {
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    background-color: #1E689D;
+}
+
+.footerContainer {
+    width: 100%;
+    max-width: 1200px;
+    min-width: 324px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo {
+    font-size: 70px;
+    color: #fff;
+}
+
+.tagline {
+    min-width: 283px;
+    margin:0 0 0 60px;
+    font-size: 26px;
+    color: #fff;
+}
+
+.line {
+    width: 100%;
+    height: 4px;
+    background-color: #fff;
+}
+
+.infoContainer {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info {
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.link {
+    margin: 2px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1E689D;
+    transition: all 0.2s;
+    border-radius: 50%;
+}
+
+.link:hover {
+    background-color: #2579b4;
+}
+
+.linkContainer {
+    display: flex;
+}
+
+.psuti_logoImg {
+    width: 160px;
+}
+
+.logoContainer {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+@media screen and (max-width: 800px) {
+    .tagline {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 620px) {
+    .container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+
+
+    .psuti_logoImg {
+        width: 100px;
+    }
+}

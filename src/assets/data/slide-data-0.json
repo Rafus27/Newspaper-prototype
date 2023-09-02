@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Тестовый заголовок 0",
+        "subtitle": "Тестовый подзаголовок 0; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 1",
+        "subtitle": "Тестовый подзаголовок 1; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 2",
+        "subtitle": "Тестовый подзаголовок 2; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 3",
+        "subtitle": "Тестовый подзаголовок 3; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 4",
+        "subtitle": "Тестовый подзаголовок 4; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 5",
+        "subtitle": "Тестовый подзаголовок 5; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 0",
+        "subtitle": "Тестовый подзаголовок 0; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 1",
+        "subtitle": "Тестовый подзаголовок 1; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 2",
+        "subtitle": "Тестовый подзаголовок 2; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 3",
+        "subtitle": "Тестовый подзаголовок 3; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 4",
+        "subtitle": "Тестовый подзаголовок 4; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    },
+    {
+        "title": "Тестовый заголовок 5",
+        "subtitle": "Тестовый подзаголовок 5; lorem ipsum dolor sit amet",
+        "img": "/src/assets/img/placeholder-forest.jpg",
+        "link": "#"
+    }
+]
